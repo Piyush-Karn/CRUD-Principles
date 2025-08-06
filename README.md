@@ -17,6 +17,10 @@
 - 🔄 **Real-time Updates** - Instant UI updates after operations
 - 📱 **Responsive Design** - Works seamlessly on all device sizes
 
+## Screenshots
+![App Screenshot 1](images/ss1.jpg)
+![App Screenshot 2](images/ss2.jpg)
+
 ## 🔧 Tech Stack
 
 ### Backend
